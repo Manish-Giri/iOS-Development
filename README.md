@@ -1,2 +1,1 @@
-# iOS-Development
-Collection of all my work on iOS development
+Repo is a (sort of!) collection of all my work on iOS development
